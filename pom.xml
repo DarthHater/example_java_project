@@ -4,18 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.amy-keibler</groupId>
+  <groupId>io.github.darthhater</groupId>
   <artifactId>example_java_project_parent</artifactId>
   <version>0.1.0</version>
   <packaging>pom</packaging>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>An example library that demonstrates the Central Publish Plugin.</description>
-  <url>https://github.com/amy-keibler/example_java_project</url>
+  <url>https://github.com/darthhater/example_java_project</url>
   <scm>
-    <connection>scm:git:git://github.com/amy-keibler/example_java_project.git</connection>
-    <developerConnection>scm:git:ssh://github.com:amy-keibler/example_java_project.git</developerConnection>
-    <url>https://github.com/amy-keibler/example_java_project/tree/main</url>
+    <connection>scm:git:git://github.com/darthhater/example_java_project.git</connection>
+    <developerConnection>scm:git:ssh://github.com:darthhater/example_java_project.git</developerConnection>
+    <url>https://github.com/darthhater/example_java_project/tree/main</url>
   </scm>
 
   <modules>
@@ -36,8 +36,8 @@
 
   <developers>
     <developer>
-      <name>Amy Keibler</name>
-      <email>akeibler@sonatype.com</email>
+      <name>Jeffry Hesse</name>
+      <email>jhesse@sonatype.com</email>
       <organization>Sonatype</organization>
       <organizationUrl>https://www.sonatype.com</organizationUrl>
     </developer>

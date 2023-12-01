@@ -1,4 +1,4 @@
-package io.github.amykeibler.subproject;
+package io.github.darthhater;
 
 import java.util.Locale;
 
